@@ -1,0 +1,5 @@
+API_key = 'pK4I...yG6zL'
+API_key_secret = 'UJrm2t...37l9bnnPUl'
+Bearer_token = 'AAAAAAAA...2NIkksi2c...TdgmjsLnn'
+Access_token = '13269171...kZNaDXq'
+Access_token_secret = 'QT91VecpKKAB...b7ibEhf'
